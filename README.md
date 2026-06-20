@@ -1,7 +1,13 @@
-## Hi there 👋
+### Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwentyCCent&layout=compact&theme=tokyonight)](https://github.com/TwentyCCent/github-readme-stats)
+
+I am currently working on integrating AI into the software development and delivery cycle.
+
+I am constantly working on microservice and modular monolithic architectures in .NET, focusing on implementation as well as observability, scalability and maintainability.
 
 <!--
-**vincent-simonin-fr/vincent-simonin-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TwentyCCent/TwentyCCent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
