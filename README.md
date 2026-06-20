@@ -1,7 +1,9 @@
 ### Hi there 👋
+
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-simonin-fr&layout=compact&theme=tokyonight)](https://github.com/vincent-simonin-fr/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-simonin-fr&locale=fr&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
 I am currently working on integrating AI into the software development and delivery cycle.
 
 I am constantly working on microservice and modular monolithic architectures in .NET, focusing on implementation as well as observability, scalability and maintainability.
