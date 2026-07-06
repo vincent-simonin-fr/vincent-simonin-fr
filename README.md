@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincent-simonin-fr&locale=fr&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=vincent-simonin-fr&locale=fr&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 I am currently working on integrating AI into the software development and delivery cycle.
